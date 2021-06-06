@@ -1,4 +1,4 @@
-Lista de requisito funcionales implementados:
+Lista de requisitos funcionales implementados:\n
 RF01-El usuario debe poder registrarse, aportando datos como email, contraseña y nombre de usuario.
 RF02-El usuario debe poder configurar su perfil : foto, nombre, apellidos, foto de perfil, peso, altura, fecha de
 nacimiento. Estos datos se podrán modificar posteriormente.
